@@ -1,0 +1,9 @@
+#summary An AddOn is a box which is attached to the project's video player.  Outlines, slideshows, and maps both sync to a video and control the video based on user input.
+
+= Introduction =
+
+Bla
+
+= Details =
+
+Hmm
