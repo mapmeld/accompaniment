@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp codebase="http://accompaniment-online.appspot.com/">
+<information>
+  <title>Accompaniment</title>
+  <vendor>Student Advocates for Science</vendor>
+  <homepage href="http://accompaniment-online.appspot.com/"/>
+  <description>Mashes up videos and interactive components</description>
+  <icon kind="default" href="icon.jpg"/>
+  <icon kind="splash" href="helpscience.jpg"/>
+  <shortcut><desktop/></shortcut>
+</information>
+<offline-allowed/>
+<resources>
+  <jar href="videoPresenterWithJNLP.jar"/>
+</resources>
+<application-desc main-class="vpMain"/>
+</jnlp>
